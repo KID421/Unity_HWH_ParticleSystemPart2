@@ -1,0 +1,5 @@
+newmtl c_macho_01
+map_Kd c_macho_01.png
+Kd 1.0 1.0 1.0
+d 1.0
+
